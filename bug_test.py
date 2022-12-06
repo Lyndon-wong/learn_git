@@ -1,5 +1,6 @@
-213
 
-213123
+def main():
+    print('the bug has been fixed!')
 
-12312312312
+if __name__ == '__main__':
+    main()
